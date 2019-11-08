@@ -36422,8 +36422,8 @@ return Math.sqrt(t*t+s*s+r*r+u*u)}}
 F.Em.prototype={
 O:function(a){return new S.o6(new F.o4(null),!1,null)}}
 F.o4.prototype={
-aS:function(){var u=C.dp.lo(5)
-return new F.K1(u+1,C.dp.lo(5)+1,C.r)}}
+aS:function(){var u=C.dp.lo(6)
+return new F.K1(u+1,C.dp.lo(6)+1,C.r)}}
 F.K1.prototype={
 O:function(a){var u,t=null,s=[N.bh],r=new P.av(25,25)
 s=H.b([new T.iS(C.aW,t,t,new T.k0(C.nv,new T.vL(C.m,C.jV,C.jW,C.j1,t,C.df,t,H.b([new T.Ht(C.l,30,H.b([M.mT(t,U.PP("images/Dice-"+this.d+"-b.png"),t,t,t,300,t,t,300),new T.eG(100,t,t,t),M.mT(t,U.PP("images/Dice-"+this.e+"-b.png"),t,t,t,300,t,t,300)],s),t),new T.eG(t,150,t,t),M.mT(t,new D.CZ(new F.K3(this),t,t,t,t,t,new P.A(4285815959),t,t,t,t,t,5,t,t,t,t,t,L.QG("Roll",A.i6(t,t,t,t,t,t,t,t,t,t,t,30,t,t,t,t,!0,t,t,t,t,t,t)),t,new X.br(C.p,new K.aZ(r,r,r,r)),C.ar,t,!1,t,t,t),t,t,t,100,t,t,200),new T.eG(t,100,t,t),L.QG("<> with a cup of \u2615\ufe0f by Astitva",A.i6(t,t,new P.A(4292188110),t,t,t,t,t,t,t,t,16,t,t,t,t,!0,t,t,t,t,t,t))],s),t),t),t)],s)
@@ -36437,8 +36437,8 @@ u.aN(new F.K2(u))},
 $S:0}
 F.K2.prototype={
 $0:function(){var u=this.a
-u.d=C.dp.lo(5)+1
-u.e=C.dp.lo(5)+1},
+u.d=C.dp.lo(6)+1
+u.e=C.dp.lo(6)+1},
 $S:0};(function aliases(){var u=H.nk.prototype
 u.zc=u.t
 u=H.p8.prototype
